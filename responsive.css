@@ -4,9 +4,9 @@
 	.mid-content {
     max-width: 1200px;
 }
-.mobile-menu-check {
-	opacity: 0;
-	visibility: hidden;
+input.mobile-menu-check {
+    visibility: hidden;
+    opacity: 0;
 }
 }
 
@@ -48,9 +48,9 @@
 .sbmt {
 	padding:0;
 }
-.mobile-menu-check {
-	opacity: 0;
-	visibility: hidden;
+input.mobile-menu-check {
+    visibility: hidden;
+    opacity: 0;
 }
 
 }
