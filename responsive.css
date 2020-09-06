@@ -4,6 +4,10 @@
 	.mid-content {
     max-width: 1200px;
 }
+.mobile-menu-check {
+	opacity: 0;
+	visibility: hidden;
+}
 }
 
 
@@ -43,6 +47,10 @@
 }
 .sbmt {
 	padding:0;
+}
+.mobile-menu-check {
+	opacity: 0;
+	visibility: hidden;
 }
 
 }
